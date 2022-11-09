@@ -6,19 +6,19 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="img/model_architecure.png">
+  <img  src="img/model_architecture.png">
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="img/s1_s2_fusion_representation.gif">
+  <img  src="img/s1_s2_fusion_representation.gif">
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="img/img_1.png">
+  <img  src="img/img_1.png">
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="img/img_2.png">
+  <img  src="img/img_2.png">
 </p>
 
 
