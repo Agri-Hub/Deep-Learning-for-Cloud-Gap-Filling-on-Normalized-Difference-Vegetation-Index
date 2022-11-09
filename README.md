@@ -15,7 +15,7 @@
 </p>
 
 
-### Grasslands Mowing Events Detection
+### Grassland Mowing Events Detection
 
 <p align="center">
   <img  src="img/img_1.png">
