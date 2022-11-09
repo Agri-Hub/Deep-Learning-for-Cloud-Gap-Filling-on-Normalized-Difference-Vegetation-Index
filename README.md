@@ -6,4 +6,4 @@
 
 
 
-[logo]: img/fusion.gif "Logo Title Text 2"
+[logo]: img/img_1.png "Logo Title Text 2"
