@@ -6,4 +6,4 @@
 
 
 
-[logo]: /img/img_1.png "Logo Title Text 2"
+![image](img/img_1.png "Title")
