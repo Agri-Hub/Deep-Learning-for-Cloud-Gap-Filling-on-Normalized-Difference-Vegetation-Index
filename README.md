@@ -6,4 +6,4 @@
 
 
 
-![image](img/img_1.png "Title")
+![image](img/fusion.gif "Title")
