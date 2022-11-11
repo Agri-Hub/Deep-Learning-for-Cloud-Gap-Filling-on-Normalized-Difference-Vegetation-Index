@@ -8,13 +8,13 @@
 
 ### Sentinel-1/Sentinel-2 Fusion 
 
-The mian purpose of this work is to use efficiently the SAR and InSAR measurements collected in parallel with the available NDVI observations, in order to create fully and dense NDVI series and fill the gaps existed due to the extended cloud coverage.
+The main purpose of this work is to use efficiently the SAR and InSAR measurements collaboratively with the available cloud-free NDVI observations collected. Finally, fully and dense NDVI time-series of standard 6-day time step are deviced under the scope to fill the existing gaps due to the extended cloud coverage.
 
 <p align="center">
   <img  src="img/s1_s2_fusion_representation.gif">
 </p>
 
-The architecture is based on Convolutional Neural Networks (CNN) and Recurrernt Neural Networks (RNN)
+The architecture is based on subsequent stacks of Convolutional Neural Networks (CNN) and Recurrernt Neural Networks (RNN). (see figure below)
 
 <p align="center">
   <img  src="img/model_architecture.png">
@@ -23,9 +23,13 @@ The architecture is based on Convolutional Neural Networks (CNN) and Recurrernt 
 
 ### Grassland Mowing Events Detection
 
+An evaluation scheme took place on the impact of utilized the artificially-created NDVI time-series on the accuracy of detecting grassland mowing events. For this task, we used pixels/parcels that were annotated through blind photo-interpretation process from the area of Lithuania.
+
 <p align="center">
   <img  src="img/img_1.png">
 </p>
+
+Additionally, based on the architecture above, a similar DNN model was designed for more effective identification of mowing events that uses as inputs the fully produced NDVI time-series in parallel with the SAR and InSAR data.
 
 <p align="center">
   <img  src="img/img_2.png">
