@@ -1,4 +1,4 @@
-# Deep Learning for Cloud Gap-Filling on Normalized Difference Vegetation Index using Sentinel Time-Series **(TBD)**
+# Deep Learning for Cloud Gap-Filling on Normalized Difference Vegetation Index using Sentinel Time-Series **(TBD - In Progress)**
 
 ## Iason Tsardanidis, Alkividis Koukos, Vasileios Sitokonstantinou, Thanassis Drivas and Charalampos Kontoes
 
