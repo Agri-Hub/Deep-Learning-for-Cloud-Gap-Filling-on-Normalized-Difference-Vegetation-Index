@@ -35,6 +35,6 @@ Additionally, based on the architecture above, a similar DNN model was designed 
   <img  src="img/img_2.png">
 </p>
 
-Data is available at https://zenodo.org/record/11651601
+Data is available at https://zenodo.org/record/11651601.
 
 
