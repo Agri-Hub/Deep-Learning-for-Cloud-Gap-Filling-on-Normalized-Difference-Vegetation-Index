@@ -35,6 +35,8 @@ Additionally, based on the architecture above, a similar DNN model was designed 
   <img  src="img/img_2.png">
 </p>
 
+This repository contains code for the arXiv preprint: "Cloud gap-filling with deep learning for improved grassland monitoring" ([arXiv:2403.09554](https://arxiv.org/abs/2403.09554))
+
 Data is available at https://zenodo.org/record/11651601.
 
 
